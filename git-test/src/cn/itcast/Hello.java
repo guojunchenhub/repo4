@@ -6,4 +6,9 @@ public class Hello {
         System.out.println("aaaaaaaaaaaa");
         System.out.println("aaaaaaaaaaaa");
     }
+
+    public void test(){
+        int a = 10;
+        a += 10;
+    }
 }

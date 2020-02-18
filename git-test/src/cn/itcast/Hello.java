@@ -10,5 +10,6 @@ public class Hello {
     public void test(){
         int a = 10;
         a += 10;
+        System.out.println(a);
     }
 }
